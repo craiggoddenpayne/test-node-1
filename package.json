@@ -17,7 +17,26 @@
   },
   "homepage": "https://github.com/craiggoddenpayne/test-node-1#readme",
   "dependencies": {
-    "express": "^4.13.3",
-    "babel": "6.23.0"
+    "autoprefixer": "^8.6.3",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^6.0.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.24.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-environment": "^1.5.2",
+    "gulp-fn": "0.0.2",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-nunjucks-render": "^2.2.2",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-stylelint": "^7.0.0",
+    "gulp-webpack": "^1.5.0",
+    "lost": "^8.3.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "run-sequence": "^2.2.1",
+    "stylelint": "^9.3.0"
   }
 }
