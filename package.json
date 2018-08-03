@@ -37,6 +37,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "run-sequence": "^2.2.1",
+    "sass-core": "github:DittoMusic/sass-core#master",
     "stylelint": "^9.3.0"
   }
 }
