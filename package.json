@@ -16,7 +16,7 @@
     "url": "https://github.com/craiggoddenpayne/test-node-1/issues"
   },
   "homepage": "https://github.com/craiggoddenpayne/test-node-1#readme",
-  "devDependencies": {
-    "datejs": "^1.0.0-rc3"
+  "dependencies": {
+    "express": "^4.13.3"
   }
 }
