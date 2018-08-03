@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/craiggoddenpayne/test-node-1#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "babel": "6.23.0"
   }
 }
